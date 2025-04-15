@@ -1,0 +1,4 @@
+# Ignoro el entorno virtual
+venv/
+# Ignoro archivos pycache 
+__pycache__
